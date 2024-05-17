@@ -1,0 +1,30 @@
+.tcImg {
+  width: 120px;
+  height: 130px;
+  margin: 10px;
+}
+
+.linkClass {
+  text-decoration: none;
+}
+
+.tcName {
+  color: #ffffff;
+  width: 280px;
+  text-align: center;
+  font-family: 30px;
+  font-weight: 300;
+}
+
+.teamCard {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: #ffffff;
+  width: 500px;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
